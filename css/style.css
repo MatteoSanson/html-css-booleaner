@@ -25,13 +25,11 @@ h1{
 
 .scritto, .data{
     color: grey;
-    position: relative;
 }
 
 .bool{
     color: #50bceb;
     display: inline;
-    position: absolute;
 }
 
 .data{
@@ -42,3 +40,14 @@ h1{
     font-size: 14px;
 }
 /* /titolo */
+
+/* testo centrale */
+.under{
+    background-color: yellow;
+    display: inline;
+}
+
+ul{
+    padding: 15px;
+}
+/* /testo centrale */
