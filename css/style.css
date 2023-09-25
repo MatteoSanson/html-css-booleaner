@@ -1,3 +1,4 @@
+/* intestazione */
 header{
     background-color: #4ea0ff;
     height: 70px;
@@ -15,3 +16,25 @@ header{
     position: absolute;
     bottom: 5%;
 }
+/* /intestazione */
+
+/* titolo */
+h1{
+    margin-bottom: 1px;
+}
+
+.scritto, .data{
+    color: grey;
+    position: relative;
+}
+
+.bool{
+    color: #50bceb;
+    display: inline;
+    position: absolute;
+}
+
+.data{
+    font-size: 12px;
+}
+/* /titolo */
