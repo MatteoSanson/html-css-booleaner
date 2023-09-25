@@ -7,8 +7,11 @@ header{
     height: 70px;
     background-image: url(../img/pattern.png);
     background-size: 270px;
+    position: relative;
 }
 
 .logo{
     height: 45px;
+    position: absolute;
+    bottom: 5%;
 }
